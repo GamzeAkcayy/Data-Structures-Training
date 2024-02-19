@@ -1,0 +1,3 @@
+10 gamze akcay 90 AVP BIL101
+11 feyza deneme 80 veri BIL102
+12 seval hello 85 nesne BIL103
