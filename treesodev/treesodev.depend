@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1702837055 source:c:\users\savas\onedrive\masaüstü\code blocks\treesodev\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1702842219 source:c:\users\savas\onedrive\masaüstü\code blocks\treesodev\20010011021.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
